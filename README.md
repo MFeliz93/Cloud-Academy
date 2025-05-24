@@ -2,4 +2,4 @@
 
 Making new changes git commands
 
-Making changes from turotial from git branch
+Making changes from turotial from git branch.
